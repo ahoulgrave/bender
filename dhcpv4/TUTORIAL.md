@@ -178,7 +178,7 @@ import (
 	"github.com/insomniacslk/dhcp/iana"
 	"github.com/ahoulgrave/bender"
 	bdhcpv4 "github.com/pinterest/bender/dhcpv4"
-	"github.com/pinterest/bender/hist"
+	"github.com/ahoulgrave/bender/hist"
 )
 
 // HardwareAddr should return a random hardware address (we'll keep it simple)

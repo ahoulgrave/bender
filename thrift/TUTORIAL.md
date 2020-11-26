@@ -354,7 +354,7 @@ import (
 	"git.apache.org/thrift.git/lib/go/thrift"
 	"log"
 	"os"
-	"github.com/pinterest/bender/hist"
+	"github.com/ahoulgrave/bender/hist"
 	"fmt"
 	"time"
         "strconv"

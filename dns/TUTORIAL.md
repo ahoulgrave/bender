@@ -281,7 +281,7 @@ import (
 
 	"github.com/miekg/dns"
 	"github.com/ahoulgrave/bender"
-	"github.com/pinterest/bender/hist"
+	"github.com/ahoulgrave/bender/hist"
 )
 
 var responseIP = net.ParseIP("fd6c:1a5c:2b63::d8e9")

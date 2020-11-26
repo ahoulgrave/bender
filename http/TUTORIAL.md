@@ -273,7 +273,7 @@ import (
 	"github.com/ahoulgrave/bender"
 	"log"
 	"os"
-	"github.com/pinterest/bender/hist"
+	"github.com/ahoulgrave/bender/hist"
 	"time"
 	"fmt"
 	bhttp "github.com/pinterest/bender/http"
