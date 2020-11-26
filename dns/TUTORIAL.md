@@ -280,7 +280,7 @@ import (
 	bdns "facebender/protocols/dns"
 
 	"github.com/miekg/dns"
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 	"github.com/pinterest/bender/hist"
 )
 

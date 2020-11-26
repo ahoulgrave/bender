@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 )
 
 // A ClientExecutor executes a Thrift request.

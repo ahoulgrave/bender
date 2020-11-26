@@ -349,7 +349,7 @@ Then create a file named `main.go` in that directory and add these lines to it:
 package main
 
 import (
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 	bthrift "github.com/pinterest/bender/thrift"
 	"git.apache.org/thrift.git/lib/go/thrift"
 	"log"

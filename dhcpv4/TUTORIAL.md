@@ -176,7 +176,7 @@ import (
 	"github.com/insomniacslk/dhcp/dhcpv4"
 	"github.com/insomniacslk/dhcp/dhcpv4/async"
 	"github.com/insomniacslk/dhcp/iana"
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 	bdhcpv4 "github.com/pinterest/bender/dhcpv4"
 	"github.com/pinterest/bender/hist"
 )

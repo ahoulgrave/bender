@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98f7ebb0-846e-4dfd-ac25-2238803e75cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhcpv4/TUTORIAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/dhcpv4/TUTORIAL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhcpv4/dhcpv4.go" beforeDir="false" afterPath="$PROJECT_DIR$/dhcpv4/dhcpv4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhcpv6/TUTORIAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/dhcpv6/TUTORIAL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhcpv6/dhcpv6.go" beforeDir="false" afterPath="$PROJECT_DIR$/dhcpv6/dhcpv6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dns/TUTORIAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/dns/TUTORIAL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dns/dns.go" beforeDir="false" afterPath="$PROJECT_DIR$/dns/dns.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/TUTORIAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/http/TUTORIAL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/http/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tftp/TUTORIAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/tftp/TUTORIAL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tftp/tftp.go" beforeDir="false" afterPath="$PROJECT_DIR$/tftp/tftp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thrift/TUTORIAL.md" beforeDir="false" afterPath="$PROJECT_DIR$/thrift/TUTORIAL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thrift/thrift.go" beforeDir="false" afterPath="$PROJECT_DIR$/thrift/thrift.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,5 +40,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="155" width="604" height="548" key="find.popup" timestamp="1606391709650">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="338" y="155" width="604" height="548" key="find.popup/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1606391709650" />
   </component>
 </project>

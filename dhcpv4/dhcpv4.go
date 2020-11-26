@@ -8,7 +8,7 @@ import (
 
 	"github.com/insomniacslk/dhcp/dhcpv4"
 	"github.com/insomniacslk/dhcp/dhcpv4/async"
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 )
 
 // ResponseValidator validates a DHCPv4 response.

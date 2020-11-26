@@ -183,7 +183,7 @@ import (
 	btftp "github.com/pinterest/bender/tftp"
 
 	"github.com/pin/tftp"
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 	"github.com/pinterest/bender/hist"
 )
 

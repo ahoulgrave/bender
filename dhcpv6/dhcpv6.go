@@ -9,7 +9,7 @@ import (
 	"github.com/insomniacslk/dhcp/dhcpv6"
 	"github.com/insomniacslk/dhcp/dhcpv6/async"
 	"github.com/mdlayher/netx/eui64"
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 )
 
 // ResponseValidator validates a DHCPv6 response.

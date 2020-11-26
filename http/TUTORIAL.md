@@ -270,7 +270,7 @@ Then create a file named `main.go` in that directory and add these lines to it:
 package main
 
 import (
-	"github.com/pinterest/bender"
+	"github.com/ahoulgrave/bender"
 	"log"
 	"os"
 	"github.com/pinterest/bender/hist"
